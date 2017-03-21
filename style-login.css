@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  color: white;
+}
+
+html, body{
+  height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body{
+  background: rgb(52, 73, 94);
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.form-control{
+  border-radius: 5px;
+  background-color: rgba(8, 8, 8, 0.87);
+  color: white;
+}
+
+.btn{
+  border-radius: 5px;
+  background: rgba(8, 8, 8, 0.87);
+  color: white;
+  width: 100%;
+}
+
+form{
+  background: rgba(236, 236, 236, 0.98);
+  padding: 100px;
+  border-radius: 5px;
+  box-shadow: 0 0px 12px rgba(0, 0, 0, .74);
+}
